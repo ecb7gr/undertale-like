@@ -5,6 +5,7 @@ extends CharacterBody2D
 # CONSTANTS
 # @EXPORT VARIABLES
 @export var speed : float
+@export var inventory : Resource
 
 # PUBLIC VARIABLES
 

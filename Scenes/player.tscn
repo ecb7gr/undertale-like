@@ -4,7 +4,7 @@
 [ext_resource type="Script" path="res://Scripts/player_input.gd" id="2_u55r5"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ri3ik"]
-size = Vector2(128, 128)
+size = Vector2(56, 52)
 
 [node name="Player" type="CharacterBody2D"]
 
